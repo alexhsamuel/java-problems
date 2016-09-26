@@ -6,4 +6,4 @@
    ```
    Write the method.
 
-1. Write a method that takes an array of names (strings) and splits them into two arrays, of first names and last names.  For example, if you call the method with the array ["Alex Samuel", "Mel Yıldırım"], it produces the arrays ["Alex", "Mel"] and ["Samuel", "Yıldırım"].
+1. Write a method that takes an array of names (strings) and splits them into two arrays, of first names and last names.  For example, if you call the method with the array `["Alex Samuel", "Mel Yıldırım"]`, it produces the arrays `["Alex", "Mel"]` and `["Samuel", "Yıldırım"]`.
